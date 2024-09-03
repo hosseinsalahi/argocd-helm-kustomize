@@ -1,0 +1,4 @@
+generators:
+- helmChart.yaml
+
+namespace: ingress-nginx
